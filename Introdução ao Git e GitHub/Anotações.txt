@@ -1,1 +1,11 @@
-O Git é um terminal extendido para otimizar o uso do Git.
+O Git é um terminal extendido para otimizar o uso do Git;
+
+Git é um sistema distribuído;
+
+Linus Torvalds, fundador do S.O Linux, foi quem criou o Git. Tal criação inclusive, serviu para o desenvolvimento do Kernel do Linux;
+
+BLOBS, TREES E COMMIT, são os três objetos do Git que possibilita mais segurança;
+
+Possui flags que modificam comandos;
+
+O Git é um controle de versionamento local, enquanto o GitHub é remoto.
